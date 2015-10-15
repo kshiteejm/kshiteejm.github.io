@@ -1,0 +1,31 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# # Dependencies
+# markdown:         redcarpet
+# pygments:         true
+
+# Setup
+title:               Kshiteej Mahajan
+tagline:             'apothegm'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://kshiteejm.github.io
+baseurl:             '/apothegm'
+paginate:            5
+github:
+  repo:           github.com/kshiteejm/apothegm
+
+# About/contact
+author:
+  name:              Kshiteej Mahajan
+  url:               https://twitter.com/kshiteej_m
+  email:             kmahajan17@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       ['About', 'Archive']
