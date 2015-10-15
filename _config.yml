@@ -17,7 +17,7 @@ url:                 http://kshiteejm.github.io
 baseurl:             ''
 paginate:            5
 github:
-  repo:              http://github.com/kshiteejm.github.io
+  repo:              http://github.com/kshiteejm/kshiteejm.github.io
 
 # About/contact
 author:
