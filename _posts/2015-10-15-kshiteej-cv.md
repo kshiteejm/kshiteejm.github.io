@@ -6,10 +6,10 @@ title: CV
 ## Education
 
 [**University of Wisconsin-Madison**](http://www.wisc.edu/)  
-PhD, [Department of Computer Sciences](http://www.cs.wisc.edu/) - Sept 2015 - Present
+PhD, [Department of Computer Sciences](http://www.cs.wisc.edu/) - Sept 2015 to Present
 
 [**Indian Institute of Technology Delhi**](http://www.iitd.ac.in/)  
-Dual Degree (M.Tech. & B.Tech.), [Computer Science and Engineering](http://www.cse.iitd.ac.in/) - July 2008 - July 2013  
+Dual Degree (M.Tech. & B.Tech.), [Computer Science and Engineering](http://www.cse.iitd.ac.in/) - July 2008 to July 2013  
 CGPA - M.Tech. : 8.763/10, B.Tech. : 8.228/10
 
 ## Professional Experience
