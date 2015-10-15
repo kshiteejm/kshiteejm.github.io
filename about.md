@@ -8,4 +8,4 @@ I'm pursuing graduate studies at University of Wisconsin-Madison.
 Before this, I was working at IBM Research, India.  
 I did my undergraduation from IIT Delhi.  
 
-I'm interested in Networking, Security and Systems.
+My research interests are in Networking, Security and Systems.

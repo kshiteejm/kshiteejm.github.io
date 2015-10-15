@@ -1,7 +1,10 @@
 ---
 layout: post
 title: CV
+fullview: true
 ---
+
+-----
 
 ## Education
 
@@ -11,6 +14,8 @@ PhD, [Department of Computer Sciences](http://www.cs.wisc.edu/) - Sept 2015 to P
 [**Indian Institute of Technology Delhi**](http://www.iitd.ac.in/)  
 Dual Degree (M.Tech. & B.Tech.), [Computer Science and Engineering](http://www.cse.iitd.ac.in/) - July 2008 to July 2013  
 CGPA - M.Tech. : 8.763/10, B.Tech. : 8.228/10
+
+-----
 
 ## Professional Experience
 
@@ -22,6 +27,8 @@ CGPA - M.Tech. : 8.763/10, B.Tech. : 8.228/10
 
 **Research Intern**, [**Avaya Labs**](http://www.avaya.com/usa/avaya-labs/)  
 *IP Communications Team* - May 2011 to July 2011
+
+-----
 
 ## Publications
 
@@ -43,7 +50,7 @@ Networks](http://www.internetsociety.org/doc/sphinx-detecting-security-attacks-s
 D. Sharma, R. Poddar, K. Mahajan, M. Dhawan, and V. Mann. Hansel:
 Diagnosing Faults in OpenStack, *CoNEXT 2015*.
 
-## In Progress
+### In Progress
 
 K. Mahajan, R. Poddar, M. Dhawan, and V. Mann. JURY: Validating
 Controller Actions in Software-Defined Networks.
@@ -54,6 +61,8 @@ Communication in Data Centers.
 K. Mahajan, R. Poddar, M. Dhawan, and V. Mann. On the Performance of
 Distributed SDN Controllers.
 
+-----
+
 ## Patents
 
 M. Dhawan, K.S. Mahajan, R. Poddar, and V. Mann. Securing of
@@ -62,6 +71,8 @@ Software-Defined Network Controllers. US Patent Application US
 
 M. Dhawan, K.S. Mahajan, R. Poddar, and V. Mann. Validating Controller
 Actions in SDN. Filed August 2015.
+
+-----
 
 ## Relevant Experience
 
@@ -72,6 +83,8 @@ Actions in SDN. Filed August 2015.
 **Teaching Assistant for AI** - Jan 2013 to May 2013  
 - TA for CSL333 (Artificial Intelligence) course taught at IIT Delhi in Spring 2013  
 - Graded assignments & exams
+
+-----
 
 ## Relevant Coursework
 
@@ -101,6 +114,8 @@ Actions in SDN. Filed August 2015.
     </tr>
   </tbody>
 </table>
+
+-----
 
 ## Relevant Projects
 
@@ -156,6 +171,8 @@ inter cell molecular communication among antibody cells in a lossy
 unreliable medium. Also designed combat strategies against infection
 cells
 
+-----
+
 ## Other Experiences
 
 **Team Leader,** Team Garuda. CanSat Competition, Texas, US - Jan 2012
@@ -163,6 +180,8 @@ to Jan 2013
 Developed the On-Flight Control Software, the Ground Station Data
 Acquisition Software & the wireless telemetry for the Atmospheric
 Reentry Vehicle built by us. Secured 3rd place
+
+-----
 
 ## Achievements
 
@@ -180,6 +199,10 @@ candidates.
 Awarded the *National Talent Search Scholarship* 2006-13 by NCERT for
 finishing among the top 700 students out of more than 300000 students.
 
+-----
+
 ## References
 
 On Request
+
+-----
