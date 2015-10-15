@@ -3,11 +3,12 @@ layout: post
 title: CV
 ---
 
-\[t\]<span>++</span> <span>**Kshiteej S. Mahajan\
+<!-- \[t\]<span>++</span> <span>**Kshiteej S. Mahajan\
 **</span><span>Applicant for Assistantship
-      <span>[](mailto:kshiteejm@cs.wisc.edu)</span>     +1-646-828-6121</span>\
+      <span>[](mailto:kshiteejm@cs.wisc.edu)</span>     +1-646-828-6121</span>\ -->
+## Kshiteej Mahajan
 
-------------------------------------------------------------------------
+-----
 
 Education
 =========
