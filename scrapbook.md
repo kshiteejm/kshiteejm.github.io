@@ -11,7 +11,7 @@ title: Incoherent Apothegm
 <!-- tag_words: {{ tag_words }} -->
 
 <div id="tags">
-  <h1>By Categories</h1>
+  <h1>By Category</h1>
   <ul class="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
