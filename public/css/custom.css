@@ -5,3 +5,34 @@
 	width: 160px;
 	margin: 0 auto;
 }
+
+.tags {
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.tags li {
+  float: left;
+}
+
+.tag {
+  font: 16px 'PT Sans', serif;
+  background: #eee;
+  border-radius: 2px;
+  color: #333;
+  display: inline-block;
+  height: 26px;
+  line-height: 26px;
+  padding: 0 7px 0 7px;
+  position: relative;
+  margin: 0 10px 10px 0;
+  text-decoration: none !important;
+}
+
+.tag:hover {
+  background-color: #333;
+  text-decoration: none !important;
+  color: #eee !important;
+}

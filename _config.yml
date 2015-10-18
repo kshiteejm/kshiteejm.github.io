@@ -15,7 +15,7 @@ description:         ''
 # A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
 url:                 http://kshiteejm.github.io
 baseurl:             ''
-paginate:            50
+paginate:            7
 github:
   repo:              http://github.com/kshiteejm/kshiteejm.github.io
 
@@ -29,4 +29,4 @@ author:
 version:             1.0.0
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:          ['About', 'Archive']
+pages_list:          ['CV', 'Scrapbook']

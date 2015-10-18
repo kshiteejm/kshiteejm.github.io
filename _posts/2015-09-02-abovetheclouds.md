@@ -2,10 +2,11 @@
 layout: post
 title: Above the Clouds&#58; A Berkeley View of Cloud Computing
 description: 
+tags: paper-summary
 comments: true
 ---
 
-### Takeaways from the paper *Above the Clouds&#58; A Berkeley View of Cloud Computing, M. Armbrust, A. Fox, R. Griffith, A.D. Joseph, R.H. Katz, A. Konwinski, G. Lee, D.A. Patterson, A. Rabkin, I. Stoica, M. Zaharia, Tech. Rep. UCB/EECS-2009-28, Feb 10, 2009.*
+Takeaways from the paper *Above the Clouds&#58; A Berkeley View of Cloud Computing, M. Armbrust, A. Fox, R. Griffith, A.D. Joseph, R.H. Katz, A. Konwinski, G. Lee, D.A. Patterson, A. Rabkin, I. Stoica, M. Zaharia, Tech. Rep. UCB/EECS-2009-28, Feb 10, 2009.*
 
 This paper gives a good overall picture of cloud computing, giving resolution to a wide variety of questions as follows.
  

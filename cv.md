@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: CV
-fullview: true
 ---
 
 -----

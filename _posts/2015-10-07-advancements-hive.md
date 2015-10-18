@@ -2,10 +2,11 @@
 layout: post
 title: Major Technical Advancements in Apache Hive
 description: 
+tags: paper-summary sql-on-hadoop
 comments: true
 ---
 
-### Takeaways from *Major technical advancements in Apache Hive, Huai et al, SIGMOD, 2014.*
+Takeaways from *Major technical advancements in Apache Hive, Huai et al, SIGMOD, 2014.*
 
 ### Hive and Advancements Therein
 Hive is a translation layer that converts its own dialect of SQL to DAG of MR jobs.  
