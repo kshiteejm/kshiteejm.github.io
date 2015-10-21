@@ -2,7 +2,7 @@
 layout: post
 title: Above the Clouds&#58; A Berkeley View of Cloud Computing
 description: 
-tags: paper-summary
+tags: paper-summary cloud-computing
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Major Technical Advancements in Apache Hive
 description: 
-tags: paper-summary sql-on-hadoop
+tags: paper-summary big-data-sql
 comments: true
 ---
 
