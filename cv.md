@@ -61,10 +61,15 @@ Distributed SDN Controllers.
 
 M. Dhawan, K.S. Mahajan, R. Poddar, and V. Mann. Securing of
 Software-Defined Network Controllers. US Patent Application US
-14/460976, filed August 2014.
+14/460976. Filed August 2014.
 
-M. Dhawan, K.S. Mahajan, R. Poddar, and V. Mann. Validating Controller
-Actions in SDN. Filed August 2015.
+M. Dhawan, K.S. Mahajan, R. Poddar, and V. Mann. Verifying Controller 
+Actions in Software-Defind Networks with Controller Clusters. 
+Filed August 2015. (IN920150132US1).
+
+M. Dhawan, K.S. Mahajan, V. Mann, R. Poddar, and D. Sharma. Diagnosing 
+Faults in Stateless Distributed Computing Platforms. Filed November 2015.
+(IN920150282US1).
 
 -----
 
