@@ -17,7 +17,8 @@ title: Incoherent Apothegm
     </th>
     <th class="right-width-dynamic">
     <ul class="tags">
-    {% for tag in site.tags %}
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
       {% assign this_tag = tag[1] | where: "category", this_category %}
       {% if this_tag != empty %}
       <li ><a href="#{{ tag[0] | cgi_escape }}" class="tag">{{ tag[0] }} <span>({{ this_tag.size }})</span></a></li>
@@ -32,7 +33,8 @@ title: Incoherent Apothegm
   {% for category in site.categories %}
     {% capture this_category %}{{ category[0] | strip_newlines }}{% endcapture %}
     <h2 id="{{ this_category | cgi_escape }}">{{ this_category | upcase }}</h2>
-    {% for tag in site.tags %}
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
       {% assign this_tag = tag[1] | where: "category", this_category %}
       {% if this_tag != empty %}
       <h2 id="{{ tag[0] | cgi_escape }}">{{ tag[0] }}</h2>
