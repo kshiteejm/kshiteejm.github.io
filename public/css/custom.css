@@ -36,3 +36,12 @@
   text-decoration: none !important;
   color: #eee !important;
 }
+
+.entry-date {
+  float: right;
+  padding-left: 1rem;
+}
+
+.blue-link {
+  color: #268bd2;
+}

@@ -2,7 +2,8 @@
 layout: post
 title: Project Adam&#58; Building an Efficient and Scalable Deep Learning Training System.
 description:
-tags: paper-summary-big-data-machine-learning
+supertags: big-data
+tags: machine-learning
 comments: true
 ---
 

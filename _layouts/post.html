@@ -3,6 +3,9 @@ layout: default
 ---
 
 <ul class="tags">
+  {% for category in page.categories %}
+    <li><a href="{{ site.baseurl }}/scrapbook/#{{category}}" class="tag">{{ category }}</a></li>
+  {% endfor %}
   {% for tag in page.tags %}
     <li><a href="{{ site.baseurl }}/scrapbook/#{{tag}}" class="tag">{{ tag }}</a></li>
   {% endfor %}
