@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Discretized Streams&#58; Fault-Tolerant Streaming Computation at Scale.
-description: 
+description:
+category: big-data 
 tags: streaming
 comments: true
 ---

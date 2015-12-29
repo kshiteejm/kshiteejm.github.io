@@ -6,6 +6,67 @@
 	margin: 0 auto;
 }
 
+table.category-table,
+.category-table caption,
+.category-table tbody,
+.category-table tfoot,
+.category-table thead,
+.category-table tr,
+.category-table th,
+.category-table td,
+.category-table tbody tr:nth-child(odd) td,
+.category-table tbody tr:nth-child(odd) th {
+  background: transparent;
+  border: none;
+  border-spacing: 0px;
+  border-collapse: separate;
+  empty-cells: show;
+  padding: 0px;
+  margin: 0px;
+  outline: 0px;
+  font-size: 100%;
+  color: #000;
+  vertical-align: top;
+  text-align: left;
+  font-family: sans-serif;
+  table-layout: auto;
+  caption-side: top;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+}
+
+.right-width-dynamic {
+  width: 60%;
+}
+@media (min-width: 38em) {
+  .right-width-dynamic {
+    width: 80%;
+  }
+}
+@media (min-width: 56em) {
+  .right-width-dynamic {
+    width: 85%;
+  }
+}
+
+.left-width-dynamic {
+  width: 40%;
+}
+@media (min-width: 38em) {
+  .left-width-dynamic {
+    width: 20%;
+  }
+}
+@media (min-width: 56em) {
+  .left-width-dynamic {
+    width: 15%;
+  }
+}
+
 .tags {
   list-style: none;
   margin: 0;
@@ -22,16 +83,36 @@
   background: #eee;
   border-radius: 2px;
   color: #333;
-  display: inline-block;
+  display: inline-table;
   height: 26px;
   line-height: 26px;
-  padding: 0 7px 0 7px;
+  padding: 0 0.35rem 0 0.35rem;
   position: relative;
-  margin: 0 10px 10px 0;
+  margin: 0 0.5rem 0.5rem 0;
   text-decoration: none !important;
 }
 
 .tag:hover {
+  background-color: #333;
+  text-decoration: none !important;
+  color: #eee !important;
+}
+
+.category {
+  font: 16px 'PT Sans', serif;
+  background: #eee;
+  border-radius: 2px;
+  color: #333;
+  display: inline-table;
+  height: 26px;
+  line-height: 26px;
+  padding: 0 0.35rem 0 0.35rem;
+  position: relative;
+  margin: 0 0.5rem 0.5rem 0;
+  text-decoration: none !important;
+}
+
+.category:hover {
   background-color: #333;
   text-decoration: none !important;
   color: #eee !important;

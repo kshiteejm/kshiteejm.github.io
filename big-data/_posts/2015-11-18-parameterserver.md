@@ -2,6 +2,7 @@
 layout: post
 title: Scaling Distributed Machine Learning with the Parameter Server.
 description:
+category: big-data
 tags: machine-learning
 comments: true
 ---

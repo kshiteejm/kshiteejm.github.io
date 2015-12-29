@@ -2,6 +2,7 @@
 layout: post
 title: Major Technical Advancements in Apache Hive
 description: 
+category: big-data
 tags: sql
 comments: true
 ---
