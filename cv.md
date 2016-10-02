@@ -12,11 +12,13 @@ PhD, [Department of Computer Sciences](http://www.cs.wisc.edu/)
 
 
 [**Indian Institute of Technology - Delhi**](http://www.iitd.ac.in/)  <span style="float: right;">July 2008 - July 2013</span>  
-Dual Degree (B.Tech. + M.Tech.), [Computer Science & Engineering](http://www.cse.iitd.ac.in/)  
+B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)  
 
 -----
 
 ## Professional Experience  
+
+** Research Associate (Intern), Hewlett Packard Labs** <span style="float: right;">May 2016 - August 2016</span>
 
 **[Software Engineer (Blue Scholar)](https://www.research.ibm.com/irl/bluescholar.html)** <span style="float: right;">July 2013 - July 2015</span>    
 [**IBM Research - India**](http://www.research.ibm.com/labs/india/)  
@@ -32,22 +34,21 @@ Dual Degree (B.Tech. + M.Tech.), [Computer Science & Engineering](http://www.cse
 
 ## Publications
 
-J. Buford, K. Mahajan, and V. Krishnaswamy. [Federated Enterprise and Cloud-based Collaborationservices](http://dx.doi.org/10.1109/IMSAA.2011.6156338), *IMSAA Dec 2011*.
+K. Mahajan, R. Poddar, M. Dhawan, V. Mann. [Jury: Validating Controller Actions in Software-Defined Networks], *DSN 2016*.
 
-K.S. Mahajan, D. Agarwal, and V.J. Ribeiro. [QoS aware overlay MAC layer for Coexistence of Heterogeneous Networks over Whitespaces](http://dx.doi.org/10.1109/COMSNETS.2014.6734876), *COMSNETS 2014*.
+D. Sharma, R. Poddar, K. Mahajan, M. Dhawan, and V. Mann. Hansel:
+Diagnosing Faults in OpenStack, *CoNEXT 2015*.
 
 M. Dhawan, R. Poddar, K. Mahajan, and V. Mann. [SPHINX: Detecting
 Security Attacks in Software-Defined
 Networks](http://www.internetsociety.org/doc/sphinx-detecting-security-attacks-software-defined-networks),
 *NDSS 2015*.
 
-D. Sharma, R. Poddar, K. Mahajan, M. Dhawan, and V. Mann. Hansel:
-Diagnosing Faults in OpenStack, *CoNEXT 2015*.
+K.S. Mahajan, D. Agarwal, and V.J. Ribeiro. [QoS aware overlay MAC layer for Coexistence of Heterogeneous Networks over Whitespaces](http://dx.doi.org/10.1109/COMSNETS.2014.6734876), *COMSNETS 2014*.
+
+J. Buford, K. Mahajan, and V. Krishnaswamy. [Federated Enterprise and Cloud-based Collaborationservices](http://dx.doi.org/10.1109/IMSAA.2011.6156338), *IMSAA 2011*.
 
 ### In Progress
-
-K. Mahajan, R. Poddar, M. Dhawan, and V. Mann. JURY: Validating
-Controller Actions in Software-Defined Networks.
 
 K. Mahajan, D. Sharma, and V. Mann. ATHENA: Reliable Multicast for Group
 Communication in Data Centers.
@@ -60,8 +61,7 @@ Distributed SDN Controllers.
 ## Patents
 
 M. Dhawan, K.S. Mahajan, R. Poddar, and V. Mann. Securing of
-Software-Defined Network Controllers. US Patent Application US
-14/460976. Filed August 2014.
+Software-Defined Network Controllers. US Patent 20,160,050,223. 2016.
 
 M. Dhawan, K.S. Mahajan, R. Poddar, and V. Mann. Verifying Controller 
 Actions in Software-Defind Networks with Controller Clusters. 
