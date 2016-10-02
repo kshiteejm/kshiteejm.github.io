@@ -18,7 +18,7 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 
 ## Professional Experience
 
-** Research Associate (Intern), Hewlett Packard Labs** <span style="float: right;">May 2016 - August 2016</span>  
+**Research Associate (Intern), Hewlett Packard Labs** <span style="float: right;">May 2016 - August 2016</span>  
 *Networking & Mobility Group* 
 
 **[Software Engineer (Blue Scholar)](https://www.research.ibm.com/irl/bluescholar.html)** <span style="float: right;">July 2013 - July 2015</span>    
