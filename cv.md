@@ -35,7 +35,7 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 
 ## Publications
 
-K. Mahajan, R. Poddar, M. Dhawan, V. Mann. [Jury: Validating Controller Actions in Software-Defined Networks], *DSN 2016*.
+K. Mahajan, R. Poddar, M. Dhawan, V. Mann. Jury: Validating Controller Actions in Software-Defined Networks, *DSN 2016*.
 
 D. Sharma, R. Poddar, K. Mahajan, M. Dhawan, and V. Mann. Hansel:
 Diagnosing Faults in OpenStack, *CoNEXT 2015*.
