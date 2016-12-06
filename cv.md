@@ -36,7 +36,7 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 ## Publications
 
 K. Mahajan, D. Sharma, and V. Mann. ATHENA: Reliable Multicast for Group
-Communication in Data Centers, *COMSNETS 2017*.
+Communication in SDN-based Data Centers, *COMSNETS 2017*.
 
 K. Mahajan, R. Poddar, M. Dhawan, V. Mann. Jury: Validating Controller Actions in Software-Defined Networks, *DSN 2016*.
 
