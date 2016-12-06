@@ -35,6 +35,9 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 
 ## Publications
 
+K. Mahajan, D. Sharma, and V. Mann. ATHENA: Reliable Multicast for Group
+Communication in Data Centers, *COMSNETS 2017*.
+
 K. Mahajan, R. Poddar, M. Dhawan, V. Mann. Jury: Validating Controller Actions in Software-Defined Networks, *DSN 2016*.
 
 D. Sharma, R. Poddar, K. Mahajan, M. Dhawan, and V. Mann. Hansel:
@@ -50,9 +53,6 @@ K.S. Mahajan, D. Agarwal, and V.J. Ribeiro. [QoS aware overlay MAC layer for 
 J. Buford, K. Mahajan, and V. Krishnaswamy. [Federated Enterprise and Cloud-based Collaborationservices](http://dx.doi.org/10.1109/IMSAA.2011.6156338), *IMSAA 2011*.
 
 ### In Progress
-
-K. Mahajan, D. Sharma, and V. Mann. ATHENA: Reliable Multicast for Group
-Communication in Data Centers.
 
 K. Mahajan, R. Poddar, M. Dhawan, and V. Mann. On the Performance of
 Distributed SDN Controllers.
