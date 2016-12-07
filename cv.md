@@ -38,10 +38,10 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 K. Mahajan, D. Sharma, and V. Mann. ATHENA: Reliable Multicast for Group
 Communication in SDN-based Data Centers, *COMSNETS 2017*.
 
-K. Mahajan, R. Poddar, M. Dhawan, V. Mann. Jury: Validating Controller Actions in Software-Defined Networks, *DSN 2016*.
+K. Mahajan, R. Poddar, M. Dhawan, V. Mann. [Jury: Validating Controller Actions in Software-Defined Networks](http://ieeexplore.ieee.org/document/7579734), *DSN 2016*.
 
-D. Sharma, R. Poddar, K. Mahajan, M. Dhawan, and V. Mann. Hansel:
-Diagnosing Faults in OpenStack, *CoNEXT 2015*.
+D. Sharma, R. Poddar, K. Mahajan, M. Dhawan, and V. Mann. [Hansel:
+Diagnosing Faults in OpenStack](http://conferences2.sigcomm.org/co-next/2015/img/papers/conext15-final156.pdf), *CoNEXT 2015*.
 
 M. Dhawan, R. Poddar, K. Mahajan, and V. Mann. [SPHINX: Detecting
 Security Attacks in Software-Defined
@@ -50,7 +50,7 @@ Networks](http://www.internetsociety.org/doc/sphinx-detecting-security-attacks-s
 
 K.S. Mahajan, D. Agarwal, and V.J. Ribeiro. [QoS aware overlay MAC layer for Coexistence of Heterogeneous Networks over Whitespaces](http://dx.doi.org/10.1109/COMSNETS.2014.6734876), *COMSNETS 2014*.
 
-J. Buford, K. Mahajan, and V. Krishnaswamy. [Federated Enterprise and Cloud-based Collaborationservices](http://dx.doi.org/10.1109/IMSAA.2011.6156338), *IMSAA 2011*.
+J. Buford, K. Mahajan, and V. Krishnaswamy. [Federated Enterprise and Cloud-based Collaboration services](http://dx.doi.org/10.1109/IMSAA.2011.6156338), *IMSAA 2011*.
 
 ### In Progress
 
