@@ -16,9 +16,15 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 
 -----
 
-## Professional Experience
+## Work Experience
 
-**Research Associate (Intern), Hewlett Packard Labs** <span style="float: right;">May 2016 - August 2016</span>  
+**Resarch Assistant, University of Wisconsin - Madison** <span style="float: right;">Sept 2016 - Present</span>
+*WISR Group*
+
+**Research Intern, Microsoft ResearchLab - Redmond** <span style="float: right;">May 2017 - Aug 2017</span>  
+*Mobility and Networking Group* 
+
+**Research Associate (Intern), Hewlett Packard Labs** <span style="float: right;">May 2016 - Aug 2016</span>  
 *Networking & Mobility Group* 
 
 **[Software Engineer (Blue Scholar)](https://www.research.ibm.com/irl/bluescholar.html)** <span style="float: right;">July 2013 - July 2015</span>    
@@ -35,10 +41,12 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 
 ## Publications
 
+K. Mahajan, M. Chowdhury, A. Akella, and S. Chawla. [Dynamic Query Re-planning Using QOOP](http://wisr.cs.wisc.edu/papers/osdi18-qoop.pdf), *OSDI 2018*.
+
 K. Mahajan, D. Sharma, and V. Mann. ATHENA: Reliable Multicast for Group
 Communication in SDN-based Data Centers, *COMSNETS 2017*.
 
-K. Mahajan, R. Poddar, M. Dhawan, V. Mann. [Jury: Validating Controller Actions in Software-Defined Networks](http://ieeexplore.ieee.org/document/7579734), *DSN 2016*.
+K. Mahajan, R. Poddar, M. Dhawan, and V. Mann. [Jury: Validating Controller Actions in Software-Defined Networks](http://ieeexplore.ieee.org/document/7579734), *DSN 2016*.
 
 D. Sharma, R. Poddar, K. Mahajan, M. Dhawan, and V. Mann. [Hansel:
 Diagnosing Faults in OpenStack](http://conferences2.sigcomm.org/co-next/2015/img/papers/conext15-final156.pdf), *CoNEXT 2015*.
