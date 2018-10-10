@@ -8,7 +8,7 @@ title: CV
 ## Education
 
 [**University of Wisconsin - Madison**](http://www.wisc.edu/) <span style="float: right;">Sept 2015 - Present</span>  
-PhD, [Department of Computer Sciences](http://www.cs.wisc.edu/) 
+MS/PhD, [Department of Computer Sciences](http://www.cs.wisc.edu/) 
 
 
 [**Indian Institute of Technology - Delhi**](http://www.iitd.ac.in/)  <span style="float: right;">July 2008 - July 2013</span>  
@@ -19,9 +19,9 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 ## Work Experience
 
 **Resarch Assistant, University of Wisconsin - Madison** <span style="float: right;">Sept 2016 - Present</span>
-*WISR Group*
+<br/>*WISR Group*
 
-**Research Intern, Microsoft ResearchLab - Redmond** <span style="float: right;">May 2017 - Aug 2017</span>  
+**Research Intern, Microsoft Research Lab - Redmond** <span style="float: right;">May 2017 - Aug 2017</span>  
 *Mobility and Networking Group* 
 
 **Research Associate (Intern), Hewlett Packard Labs** <span style="float: right;">May 2016 - Aug 2016</span>  
