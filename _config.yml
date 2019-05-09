@@ -22,11 +22,11 @@ github:
 # About/contact
 author:
   name:              Kshiteej Mahajan
-  url:               https://twitter.com/kshiteej_m
-  email:             kmahajan17@gmail.com
+  url:               https://twitter.com/kshiteejmahajan
+  email:             kshiteej.mahajan@gmail.com
 
 # Custom vars
 version:             1.0.0
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:          ['CV', 'Scrapbook']
+pages_list:          ['CV', 'Posts', 'Contact']

@@ -18,7 +18,7 @@ title: Home
     <br/><br/>
     To know more have a look at my <a class="blue-link" href="{{ site.baseurl }}/cv">CV</a>.
     <br/><br/>
-    I also maintain a <a class="blue-link" href="{{ site.baseurl }}/scrapbook">collection of random posts</a>.
+    I also maintain a <a class="blue-link" href="{{ site.baseurl }}/posts">collection of random posts</a>.
   </h3>
   <hr id="begin-posts"/>
   
@@ -26,10 +26,10 @@ title: Home
 
   <ul class="tags">
     {% for category in post.categories %}
-      <li><a href="{{ site.baseurl }}scrapbook/#{{category}}" class="tag">{{ category }}</a></li>
+      <li><a href="{{ site.baseurl }}posts/#{{category}}" class="tag">{{ category }}</a></li>
     {% endfor %}
     {% for tag in post.tags %}
-      <li><a href="{{ site.baseurl }}scrapbook/#{{tag}}" class="tag">{{ tag }}</a></li>
+      <li><a href="{{ site.baseurl }}posts/#{{tag}}" class="tag">{{ tag }}</a></li>
     {% endfor %}
   </ul>
   
