@@ -21,6 +21,8 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 **Resarch Assistant, University of Wisconsin - Madison** <span style="float: right;">Sept 2016 - Present</span>
 <br/>*WISR Group*
 
+**Visiting Researcher, MIT CSAIL** <span style="float: right;">Oct 2019 - May 2020</span>
+
 **Research Intern, Microsoft Research Lab - Redmond** <span style="float: right;">May 2017 - Aug 2017</span>  
 *Mobility and Networking Group* 
 
@@ -41,6 +43,8 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 
 ## Publications
 
+K. Mahajan, A. Balasubramanian, A. Singhvi, S. Venkataraman, A. Akella, A. Phanishayee, and S. Chawla. [Themis: Fair and Efficient GPU Cluster Scheduling](http://wisr.cs.wisc.edu/papers/nsdi20-themis.pdf), *NSDI 2020*.
+
 K. Mahajan, M. Chowdhury, A. Akella, and S. Chawla. [Dynamic Query Re-planning Using QOOP](http://wisr.cs.wisc.edu/papers/osdi18-qoop.pdf), *OSDI 2018*.
 
 K. Mahajan, D. Sharma, and V. Mann. ATHENA: Reliable Multicast for Group
@@ -56,7 +60,7 @@ Security Attacks in Software-Defined
 Networks](http://www.internetsociety.org/doc/sphinx-detecting-security-attacks-software-defined-networks),
 *NDSS 2015*.
 
-K.S. Mahajan, D. Agarwal, and V.J. Ribeiro. [QoS aware overlay MAC layer for Coexistence of Heterogeneous Networks over Whitespaces](http://dx.doi.org/10.1109/COMSNETS.2014.6734876), *COMSNETS 2014*.
+K. Mahajan, D. Agarwal, and V.J. Ribeiro. [QoS aware overlay MAC layer for Coexistence of Heterogeneous Networks over Whitespaces](http://dx.doi.org/10.1109/COMSNETS.2014.6734876), *COMSNETS 2014*.
 
 J. Buford, K. Mahajan, and V. Krishnaswamy. [Federated Enterprise and Cloud-based Collaboration services](http://dx.doi.org/10.1109/IMSAA.2011.6156338), *IMSAA 2011*.
 
