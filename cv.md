@@ -21,9 +21,11 @@ B.Tech. & M.Tech., [Computer Science & Engineering](http://www.cse.iitd.ac.in/)
 **Resarch Assistant, University of Wisconsin - Madison** <span style="float: right;">Sept 2016 - Present</span>
 <br/>*WISR Group*
 
-**Visiting Researcher, MIT CSAIL** <span style="float: right;">Oct 2019 - May 2020</span>
+**Research Intern, Microsoft Research - Redmond** <span style="float: right;">June 2020 - Aug 2020</span> 
 
-**Research Intern, Microsoft Research Lab - Redmond** <span style="float: right;">May 2017 - Aug 2017</span>  
+**Visiting Researcher, MIT CSAIL** <span style="float: right;">Sept 2019 - May 2020</span>
+
+**Research Intern, Microsoft Research - Redmond** <span style="float: right;">May 2017 - Aug 2017</span>  
 *Mobility and Networking Group* 
 
 **Research Associate (Intern), Hewlett Packard Labs** <span style="float: right;">May 2016 - Aug 2016</span>  
